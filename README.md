@@ -1,7 +1,7 @@
 # Research-Codebase
 # A Unified Hybrid Framework for Ocular Disease Classification
 
-### Integrating Few-Shot Learning, Multi-Backbone Feature Fusion, PCA, Symbolic Machine Learning, and Federated Learning
+### Integrating Few-Shot Learning with PCA-refined Multi-backbone Neural Embedding Fusion and Symbolic Classifiers
 
 [![Research](https://img.shields.io/badge/Domain-Medical%20Image%20Analysis-blue)]()
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN%20%7C%20ViT-purple)]()
