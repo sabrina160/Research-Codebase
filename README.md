@@ -250,8 +250,6 @@ The best-performing configuration achieved the following validation results:
 
 These results demonstrate the potential of combining few-shot representation learning, feature fusion, dimensionality reduction, federated learning workflows, and symbolic machine learning for imbalanced ocular disease classification.
 
-*Note: These reported results correspond to the validation evaluation in the manuscript, not an independently reported test-set result.*
-
 ## Evaluation Metrics
 
 The framework was evaluated using the following metrics:
