@@ -280,34 +280,20 @@ Future research will focus on multi-client federated experiments, heterogeneous 
 The following is a suggested organization for the project. Adapt the filenames to match the actual implementation.
 
 ```text
-ocular-disease-classification/
-│
+Research-Codebase/
 ├── README.md
+├── LICENSE
+├── CITATION.cff
 │
-├── data/
-│   └── README.md
+├── Initial Implementation using imbalanced dataset/                 
+├── Baseline Implementation/                           
+├── Siamese Network Training/                            
+├── Prototypical Network Training/                       
+├── Prototypical Network Training with Feature Fusion/        
+├── Federated Training using CNN models (Hybrid approach)/                      
+├── Federated Training using ViT models (Hybrid approach)/                      
 │
-├── notebooks/
-│   ├── preprocessing.ipynb
-│   ├── feature_extraction.ipynb
-│   ├── few_shot_learning.ipynb
-│   ├── feature_fusion_pca.ipynb
-│   ├── federated_learning.ipynb
-│   └── classification.ipynb
-│
-├── models/
-│   ├── cnn/
-│   ├── vit/
-│   └── classifiers/
-│
-├── results/
-│   ├── metrics/
-│   ├── confusion_matrices/
-│   └── visualizations/
-│
-├── requirements.txt
-│
-└── LICENSE
+└── Figures/                               
 ```
 
 ## Reproducibility
