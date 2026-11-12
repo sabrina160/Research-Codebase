@@ -316,16 +316,16 @@ The dataset is not included in this repository.
 
 ## Authors
 
-Sabrina Jahan
-Department of Computer Science and Engineering
+**Sabrina Jahan**  
+Department of Computer Science and Engineering  
 BRAC University, Bangladesh
 
-Dr. Md Golam Rabiul Alam
-Department of Computer Science and Engineering
+**Dr. Md. Golam Rabiul Alam**  
+Department of Computer Science and Engineering  
 BRAC University, Bangladesh
 
-B.M. Shahria Alam
-Department of Computer Science and Engineering
+**B. M. Shahria Alam**  
+Department of Computer Science and Engineering  
 East West University, Bangladesh
 
 ## Acknowledgments
