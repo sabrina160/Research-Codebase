@@ -243,7 +243,7 @@ The best-performing configuration achieved the following validation results:
 
 | Evaluation Metric | Performance |
 |---|---:|
-| Accuracy | **89.75%** |
+| Accuracy | **89.75 ~ 90%** |
 | Precision | **92.11%** |
 | Recall | **91.17%** |
 | F1-score | **91.52%** |
@@ -276,8 +276,6 @@ Although the proposed framework demonstrated promising validation performance, s
 Future research will focus on multi-client federated experiments, heterogeneous data distributions, external dataset validation, and broader assessment of the framework under real-world clinical conditions.
 
 ## Repository Structure
-
-The following is a suggested organization for the project. Adapt the filenames to match the actual implementation.
 
 ```text
 Research-Codebase/
