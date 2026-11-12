@@ -309,8 +309,6 @@ To reproduce the reported experiments:
 7. Optimize symbolic machine learning classifiers using RandomizedSearchCV.
 8. Evaluate the resulting configurations using the validation dataset.
 
-Exact execution commands, dependency versions, and pretrained model configurations should be documented alongside the corresponding implementation.
-
 ## Data Availability
 
 The retinal disease dataset used in this research is publicly available through Mendeley Data:
@@ -319,15 +317,6 @@ https://doi.org/10.17632/s9bfhswzjb.1
 
 The dataset is not included in this repository.
 
-## Citation
-
-If you use this work in your research, please cite:
-
-**Jahan, S., Alam, M. G. R., & Alam, B. M. S.**
-
-*A unified hybrid framework for ocular diagnosis: integrating few-shot learning with PCA-refined multi-backbone neural embedding fusion and symbolic classifiers.*
-
-Please update this section with the final publication details and DOI when available.
 
 ## Acknowledgments
 
@@ -335,7 +324,7 @@ The authors acknowledge the publicly available retinal disease dataset provided 
 
 ## License
 
-Please refer to the repository's LICENSE file for usage and distribution terms. Add an appropriate license before distributing the implementation.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
