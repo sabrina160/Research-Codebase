@@ -281,7 +281,6 @@ Future research will focus on multi-client federated experiments, heterogeneous 
 Research-Codebase/
 ├── README.md
 ├── LICENSE
-├── CITATION.cff
 │
 ├── Initial Implementation using imbalanced dataset/                 
 ├── Baseline Implementation/                           
