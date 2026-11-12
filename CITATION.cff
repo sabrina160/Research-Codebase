@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "A unified hybrid framework for ocular diagnosis: integrating few-shot learning with PCA-refined multi-backbone neural embedding fusion and symbolic classifiers"
 version: v1.0.0
-date-released: 2026-11-13
+date-released: 2026-11-12
 authors:
   - family-names: "Jahan"
     given-names: "Sabrina"
