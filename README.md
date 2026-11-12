@@ -314,6 +314,19 @@ https://doi.org/10.17632/s9bfhswzjb.1
 
 The dataset is not included in this repository.
 
+## Authors
+
+Sabrina Jahan
+Department of Computer Science and Engineering
+BRAC University, Bangladesh
+
+Dr. Md Golam Rabiul Alam
+Department of Computer Science and Engineering
+BRAC University, Bangladesh
+
+B.M. Shahria Alam
+Department of Computer Science and Engineering
+East West University, Bangladesh
 
 ## Acknowledgments
 
