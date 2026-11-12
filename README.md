@@ -203,7 +203,7 @@ The proposed framework was evaluated progressively to investigate the contributi
 | CNN Feature Fusion + Prototypical Network + PCA | 78.5% |
 | ViT Feature Fusion + Prototypical Network + PCA | 77.62% |
 | Federated Learning + CNN Feature Fusion + Prototypical Network + PCA | 89.12% |
-| **Federated Learning + ViT Feature Fusion + Prototypical Network + PCA** | **89.75%** |
+| **Federated Learning + ViT Feature Fusion + Prototypical Network + PCA** | **89.75% ~ 90%** |
 
 The best-performing configuration was obtained using ViT-based feature fusion, Prototypical Network training within the Flower-based workflow, PCA, and CatBoost classification.
 
